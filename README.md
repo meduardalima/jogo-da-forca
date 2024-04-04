@@ -13,7 +13,7 @@ d) Media Queries para garantir responsividade
 ### Bootstrap
 
 # Clonando este repositório
-$ git clone 
+$ git clone https://github.com/meduardalima/jogo-da-forca.git
 
 # Acessando o repositório
 $ cd jogo-da-forca
